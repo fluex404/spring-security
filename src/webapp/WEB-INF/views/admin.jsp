@@ -4,6 +4,6 @@
     <title>ADMIN</title>
 </head>
 <body>
-Hallo ADMIN
+Welcome Admin
 </body>
 </html>
